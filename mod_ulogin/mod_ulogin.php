@@ -36,6 +36,8 @@ function getDefaultUserData(){
 	return $data;
 }
 
+// как сделать загрузку аватарок в ту же папку что и к2 но в таблицы users Joomla?
+
 //====================K2 user photo upload===========================//
 
 function uploadPhoto($url, $filename){
